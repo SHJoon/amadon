@@ -1,0 +1,13 @@
+h1{
+    font-style: italic;
+}
+table{
+    border-collapse: collapse;
+}
+table *{
+    padding:3px;
+}
+
+th, tr:nth-child(even) {
+    background-color: #dddddd;
+  }
